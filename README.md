@@ -1,10 +1,10 @@
-# 105-unit3
+# County Health Data: Clark County Mental Health Exploration
 
 This is a repository constructed for ENGL 105 at UNC Chapel Hill. I have just started exploring using a Python Notebook with Pandas and Numpy and am a novice in data and coding.
 
 ### Datasets
 
-I am using County Health Data from 2014-2015 and exploring the data through a lense analyizing youth mental health.
+I am using County Health Data from 2014-2015 and exploring the data through a lens analyizing youth mental health.
  * Go to the [County Health Data](https://github.com/sophial1/105-unit3/blob/main/CountyHealthData_2014-2015%20(1).csv)
  * Go to the [Clark County Mental Health Data Subset](https://github.com/sophial1/105-unit3/blob/main/CCMH_subset.csv)
 
